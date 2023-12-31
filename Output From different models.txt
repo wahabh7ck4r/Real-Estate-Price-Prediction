@@ -1,0 +1,13 @@
+MODEL OUTPUTS:
+
+1. Decesion Tree Regressor:
+    Mean:  4.368183877938384
+    Standard division:  1.0003883873737998
+
+2. Linear Regression:
+    Mean:  5.037482786117751
+    Standard division:  1.059438240560695
+
+3. Random Forest Regressor:
+    Mean:  3.3369953668986683
+    Standard division:  0.6835191349788153
