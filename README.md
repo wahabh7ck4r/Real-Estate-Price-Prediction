@@ -37,7 +37,7 @@ To utilize or replicate this project:
    
 ## Contributors
 
-- [wahabh7ck4r]([(http://github.com/wahabh7ck4r)])
+- [wahabh7ck4r](http://github.com/wahabh7ck4r)
 
 Contributions, issues, and suggestions are welcome!
 
